@@ -1,0 +1,28 @@
+
+
+<script>
+
+     document.write("Calculadora");
+	 
+	 var valor1 = 30;
+	 var valor2 = 12;
+	 
+	 var soma = valor1 + valor2;
+	 var subtrai = valor1 - valor2
+	 var multiplica = valor1 * valor2
+	 var divide = valor1 / valor2
+	 
+	 document.write("<br>");
+	 document.write(A soma é: " + soma);
+	 document.write("<br>");	
+	 document.write(A subtração: " + subtrai);
+	 document.write("<br>");
+	 document.write("A multiplicação é: " + multiplica);
+	 document.write("<br>");
+	 document.write("A divisão é: " + divide);
+	 
+	 
+	 
+</script>
+	 
+	 
